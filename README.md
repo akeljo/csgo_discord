@@ -1,12 +1,23 @@
+# csgo_discord
+
 Discord bot to control lgsm 
 
-pip install python.valve
+## Installation
 
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+```bash
+pip install python.valve
 pip install config\n
 pip install discord
-
+```
+## Requires
+```bash
 python 3.9
+```
+## Usage
 
+```bash
 Edit config_example.py and save as config.py
-
-python3.9 bot.py
+.help in discord to see commands
+```
