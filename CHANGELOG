@@ -1,0 +1,15 @@
+v 0.02
+	interacts with LGSM
+	execs scripts
+	interacts with rcon
+
+v 0.01
+	connects to discord
+	takes commands
+
+Planed
+	database for users
+	add admin 
+	monthly stats
+	map adding
+	multiple server
