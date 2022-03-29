@@ -1,7 +1,7 @@
 Discord bot to control lgsm 
 
-pip install python.valve
-pip install config
+pip install python.valve\n
+pip install config\n
 pip install discord
 
 python 3.9
